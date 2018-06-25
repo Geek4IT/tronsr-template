@@ -1,7 +1,7 @@
 ## Founder
 
-Name: [name]
-Role: [role]
+Name: Evan Yip
+Role: Founder & Chief Scientist
 
 ## Team Member 1
 
